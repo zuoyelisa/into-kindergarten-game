@@ -29,16 +29,8 @@ On a phone held upright, the words appear in a row under the scene instead of on
 
 ## Running it
 
-**Option A: open the file.** Double-click `index.html`, or drag it into a browser window.
+** Open the file.** Double-click `index.html`, or drag it into a browser window.
 
-**Option B: run a local server** (useful if the browser blocks audio when opened from disk):
-
-```bash
-cd 02-into-kindergarden-game
-python3 -m http.server 8000
-```
-
-Then open <http://localhost:8000> in your browser.
 
 ## Voices and audio
 
