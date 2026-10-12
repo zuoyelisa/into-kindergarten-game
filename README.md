@@ -57,6 +57,3 @@ On a phone held upright, the words appear in a row under the scene instead of on
 
 The recording scripts in `reference/Voice/` list the words and sentences in the order they should be recorded.
 
-## Privacy note
-
-The game embeds images of the child and recordings of the parents' voices. Check that you are happy for these to be public before pushing this repository to GitHub. If you are not, make the repository private or remove the embedded media first.
