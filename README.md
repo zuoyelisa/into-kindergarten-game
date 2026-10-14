@@ -57,3 +57,8 @@ On a phone held upright, the words appear in a row under the scene instead of on
 
 The recording scripts in `reference/Voice/` list the words and sentences in the order they should be recorded.
 
+## LICENSE
+
+* This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) - [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+
